@@ -69,7 +69,9 @@ Libre software has potential to be improved by you, or anyone else. Thusly I eva
 
 [It is possible to run LV2 plug-ins on macOS as I've described here]({% post_url 2017-11-29-Run-LV2-plugins-on-macOS %}).
 
-Windows users... sorry. I have no clue how you can easily utilize LV2 plug-ins without changing your DAW.
+<del>Windows users... sorry. I have no clue how you can easily utilize LV2 plug-ins without changing your DAW.</del>  
+
+Windows users, (MacOS- and Linux-Users as well) can run LV2-plugins in REAPER. REAPER can handle LV2 since 6.24. some of the x42-Plugins mentioned below have version for all OS.
 
 # Libre
 
